@@ -1,1 +1,1 @@
-Por el tamaño de los archivos, no se pudo agregar el dataset, "tw_source.csv", ni las carpetas con los datos de pruvea y entrenamiento con las imagenes, por lo que se aregan las imagenes para dejar constancia que si se utilizaron los data set proporcionados para generar los codigos. 
+Por el tamaño de los archivos, no se pudo agregar el dataset 'tw_source.csv' ni las carpetas con los datos de prueba y entrenamiento con las imágenes, por lo que se agregan las imágenes para dejar constancia de que sí se utilizaron los datasets proporcionados para generar los códigos.
